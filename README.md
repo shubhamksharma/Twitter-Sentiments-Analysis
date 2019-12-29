@@ -14,8 +14,9 @@ following for every tweet in a tabular format.
 There are some general library requirements for the project and some which are specific to individual methods. The general requirements are as follows.
 
 1. tweepy
-2. pandas
-3. matplotlib
-4. seaborn
-5. nltk
-6. wordcloud
+2. textblob
+3. pandas
+4. matplotlib
+5. seaborn
+6. nltk
+7. wordcloud
